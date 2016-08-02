@@ -44,7 +44,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.fdyuntu.base.qiniu.UploadDemo</mainClass>
+							<mainClass>edu.ouc.base.qiniu.UploadDemo</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
