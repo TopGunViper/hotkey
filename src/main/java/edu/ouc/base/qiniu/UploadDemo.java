@@ -28,10 +28,10 @@ public class UploadDemo {
     
     
     //设置好账号的ACCESS_KEY和SECRET_KEY
-    String ACCESS_KEY = "CPzADA3dQlT2fhwXbZfGvJlIsDVVLyoiWSOaB-T4";
-    String SECRET_KEY = "7gQjAIiuPMv9CSumxyuABsOW-qajHIyKWjd0ZvB2";
+    String ACCESS_KEY = "your access-key";
+    String SECRET_KEY = "your secret-key";
     //要上传的空间
-    String bucketname = "ynote";
+    String bucketname = "your bucketname";
     //上传到七牛后保存的文件名
     String key = "my-java.png";
     //上传文件的路径
